@@ -24,9 +24,9 @@ done.
 The included `generator.yml` can be updated to scrape any additional
 metrics you need.
 
-To use the generator, you'll need to get the Ubiquiti Networks MIBs from
-here: http://dl.ubnt-ut.com/snmp/UBNT-MIB and
-http://dl.ubnt-ut.com/snmp/UBNT-UniFi-MIB and place them into
+To use the generator, you'll need to get the Ubiquiti Networks MIBs from here:
+https://dl.ubnt-ut.com/snmp/UBNT-MIB and
+https://dl.ubnt-ut.com/snmp/UBNT-UniFi-MIB and place them into
 `$HOME/.snmp/mibs`.
 
 The generator
@@ -36,9 +36,9 @@ should have all you need.
 # External links
 
 [Prometheus SNMP exporter](https://github.com/prometheus/snmp_exporter)
-has a great README.  Make sure you read it thoroughly, as SNMP and MIBs
-can be confusing.
+has a great README.  Make sure you read it thoroughly, as SNMP and MIBs can be
+confusing.
 
 The [using and loading
-MIBs](http://net-snmp.sourceforge.net/wiki/index.php/TUT:Using_and_loading_MIBS)
-section of the official Net-SNMP documentation is great as well.
+MIBs](https://net-snmp.sourceforge.io/wiki/index.php/TUT:Using_and_loading_MIBS)
+section in Net-SNMP documentation is great as well.
